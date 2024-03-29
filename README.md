@@ -23,7 +23,7 @@ Executado a ferramente OWASP ZAP nos seguintes fluxos:
 - Realização do Pedido (checkout)
 - Geração e confirmação de Pagamento
   
-[Report](https://ecsj.github.io/Totem.Order.API/ZapReport/ZAP-Report-.html)
+[Report](https://ecsj.github.io/Fiap.Totem.Order.API/ZapReport/ZAP-Report-.html)
 
 Como não foi identificado vulnerabilidades altas, não foi gerado um novo relatório
 
@@ -64,7 +64,7 @@ O padrão Saga Coreografado foi escolhido devido à sua simplicidade de implemen
 ## Relatório de Impacto à Proteção de Dados Pessoais
 
 
-[RIPD.docx](https://ecsj.github.io/Totem.Order.API/RIPD.docx)
+[RIPD.docx](https://ecsj.github.io/Fiap.Totem.Order.API/RIPD.docx)
 
 ## Rodando a API em localhost
 1. Instale o Docker: [www.docker.com/](https://www.docker.com/get-started/)
@@ -89,19 +89,19 @@ Agora basta abrir /swagger
 Ficando assim: http://localhost:5010/swagger
 
 5. Antes de executar o fluxo completo é necessario fazer o build de todas apis:
-Totem Order API: https://github.com/ecsj/Totem.Order.API
+Totem Order API: https://github.com/ecsj/Fiap.Totem.Order.API
  ```sh
 docker build -t totem-order-api .
  ```
-Totem Catalog API: https://github.com/ecsj/Totem.Api.Catalog
+Totem Catalog API: https://github.com/ecsj/Fiap.Totem.Catalog.API
  ```sh
 docker build -t totem-catalog-api .
  ```
-Totem Payment API: https://github.com/ecsj/Totem.Api.Payment
+Totem Payment API: https://github.com/ecsj/Fiap.Totem.Payment.API
  ```sh
 docker build -t totem-payment-api .
  ```
-Totem Production API: https://github.com/ecsj/Totem.Api.Production
+Totem Production API: https://github.com/ecsj/Fiap.Totem.Production.API
  ```sh
 docker build -t totem-production-api .
  ```
