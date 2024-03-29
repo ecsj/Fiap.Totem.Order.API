@@ -1,0 +1,68 @@
+version: '3.8'
+services:
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: 'rabbitmq'
+    ports:
+        - 5672:5672
+        - 15672:15672
+      
+  postgres:
+    image: postgres
+    restart: always
+    container_name: 'postgres'
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: mysecretpassword
+    volumes: 
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - 27017:27017
+      
+  totem-payment-api:
+    image: totem-payment-api
+    container_name: 'totem-payment-api'
+    hostname: totem-payment-api
+    restart: always
+    ports:
+      - 5021:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  totem-order-api:
+    image: totem-order-api
+    container_name: 'totem-order-api'
+    hostname: totem-order-api
+    restart: always
+    ports:
+      - 5010:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  totem-catalog-api:
+    image: totem-catalog-api
+    container_name: 'totem-catalog-api'
+    hostname: totem-catalog-api
+    restart: always
+    ports:
+      - 5002:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  totem-production-api:
+    image: totem-production-api
+    container_name: 'totem-production-api'
+    hostname: totem-production-api
+    restart: always
+    ports:
+      - 5030:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+volumes:
+  rabbitmq_volume:

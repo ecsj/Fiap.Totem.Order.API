@@ -1,0 +1,373 @@
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API.deps.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API.runtimeconfig.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/appsettings.Development.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/appsettings.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/UnitTests.deps.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/UnitTests.runtimeconfig.json
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/UnitTests.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/UnitTests.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Azure.Core.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Azure.Identity.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Castle.Core.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/FluentAssertions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/testhost.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Moq.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Npgsql.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Refit.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Refit.HttpClientFactory.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Serilog.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Net.Http.Json.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Text.Json.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Threading.Channels.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Application.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Domain.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Infra.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/API.xml
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Application.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Domain.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Infra.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.csproj.AssemblyReference.cache
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.AssemblyInfoInputs.cache
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.AssemblyInfo.cs
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.csproj.CoreCompileInputs.cache
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.csproj.CopyComplete
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/refint/UnitTests.dll
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.pdb
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/UnitTests.genruntimeconfig.cache
+/Users/eduardocarmo/Downloads/Totem.Api.Order-main/tests/UnitTests/obj/Debug/net6.0/ref/UnitTests.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\appsettings.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\testhost.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.deps.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.exe
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\testhost.exe
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\UnitTests.deps.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\UnitTests.runtimeconfig.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\UnitTests.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\UnitTests.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Moq.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Refit.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Serilog.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Application.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Domain.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Infra.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\API.xml
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Application.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Domain.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Infra.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.AssemblyReference.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfo.cs
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.sourcelink.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.CopyComplete
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\refint\UnitTests.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\UnitTests.genruntimeconfig.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Desenvolvimento\Fiap\Tech Challenge Fase 5\Totem.Order.API\tests\UnitTests\bin\Debug\net6.0\appsettings.Staging.json
