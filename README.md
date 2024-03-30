@@ -17,6 +17,10 @@ Esse microsserviço é reponsável por realizar os pedidos do sistema Totem
 
 ![image info](./img/diagram.png)
 
+## Videos:
+https://youtu.be/03EyPzt6V5Y
+https://youtu.be/QZ6cnkZrbTY
+
 ## OWASP ZAP
 Executado a ferramente OWASP ZAP nos seguintes fluxos:
 - Listar/exibir catalogo
