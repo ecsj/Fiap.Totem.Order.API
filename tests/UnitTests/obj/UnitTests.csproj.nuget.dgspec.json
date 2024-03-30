@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\API.csproj": {
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\API.csproj",
+        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ecsj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\obj\\",
+        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\Infra.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\Infra.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj": {
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ecsj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ecsj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,14 +243,14 @@
         }
       }
     },
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\Infra.csproj": {
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\ecsj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Infra\\obj\\",
+        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,11 +267,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\ecsj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -367,11 +367,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\API.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\API\\API.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\API.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\API\\API.csproj"
               },
-              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\src\\Application\\Application.csproj"
+              "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\src\\Application\\Application.csproj"
               }
             }
           }

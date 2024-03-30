@@ -23,6 +23,8 @@ public class Dependencies
         services.AddHostedService<ProcessedPaymentHandler>();
         services.AddHostedService<PaidOrderHandler>();
 
+        services.AddHostedService<CustomerCreatedHandler>();
+        services.AddHostedService<CustomerDeletedHandler>();
 
         services.AddRefitClient<IPaymentApi>()
             .ConfigureHttpClient(c => c.BaseAddress = new Uri(configuration["PaymentApiUrl"]));

@@ -29,27 +29,20 @@ public class ClientUseCase : IClientUseCase
     {
         return await _clienteRepository.GetByCpf(cpf);
     }
-    public async Task<Client> Add(ClientRequest request)
+    public async Task<Client> Add(Client request)
     {
-        var client = Client.FromRequest(request);
+        await _clienteRepository.AddAsync(request);
 
-        await _clienteRepository.AddAsync(client);
-
-        await _clienteRepository.SaveChangesAsync();
-
-        return client;
+        return request;
     }
 
-    public async Task Update(Guid id, ClientRequest clientRequest)
+    public async Task Update(Guid id, Client clientRequest)
     {
         var client = await GetById(id);
 
         if (client is null) throw new DomainException("Client não encontrado");
 
         await _clienteRepository.UpdateAsync(client);
-
-        await _clienteRepository.SaveChangesAsync();
-
     }
 
     public async Task Delete(Guid id)
@@ -59,8 +52,5 @@ public class ClientUseCase : IClientUseCase
         if (client is null) throw new DomainException("Client não encontrado");
 
         await _clienteRepository.DeleteAsync(client);
-
-        await _clienteRepository.SaveChangesAsync();
-
     }
 }

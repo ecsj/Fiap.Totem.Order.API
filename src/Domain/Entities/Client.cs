@@ -15,26 +15,7 @@ public class Client : Entity, IAggregateRoot
         Name = nome;
         CPF = cpf;
         Email = email;
-
-        ValidateEntity();
     }
 
     public Client() { }
-
-    public static Client FromRequest(ClientRequest clientRequest)
-    {
-        return new Client
-        {
-            Name = clientRequest.Name,
-            Email = clientRequest.Email,
-            CPF = clientRequest.CPF
-        };
-    }
-
-    public void ValidateEntity()
-    {
-        AssertionConcern.AssertArgumentNotEmpty(Name, "O nome não pode ser vazio");
-        AssertionConcern.AssertArgumentNotEmpty(Email, "O Email não pode ser vazio");
-        AssertionConcern.AssertArgumentNotEmpty(CPF, "O CPF não pode ser vazio");
-    }
 }

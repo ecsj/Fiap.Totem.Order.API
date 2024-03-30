@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3/mDQHMRP/ft2X+gIQ+ofUe3kTmOYDjDKYYmWDdtNuHbGUCuWO/g8zPzFOCt1jBrDvKWL5aTEsviwCdZ6tJNCQ==",
+  "dgSpecHash": "SkAevtyOymTB8BK6p9XlCsrNPZRSnzRFuuWRMpK5nqN5bnVbyYS6qXSHjpx/aHH7xL4632xvKwjCaaq3gzWm2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\ecsj\\OneDrive\\Área de Trabalho\\Desenvolvimento\\Fiap\\Tech Challenge Fase 5\\Fiap.Totem.Order.API\\tests\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ecsj\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ecsj\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
