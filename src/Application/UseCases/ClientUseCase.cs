@@ -35,6 +35,8 @@ public class ClientUseCase : IClientUseCase
 
         await _clienteRepository.AddAsync(client);
 
+        await _clienteRepository.SaveChangesAsync();
+
         return client;
     }
 
@@ -45,6 +47,9 @@ public class ClientUseCase : IClientUseCase
         if (client is null) throw new DomainException("Client não encontrado");
 
         await _clienteRepository.UpdateAsync(client);
+
+        await _clienteRepository.SaveChangesAsync();
+
     }
 
     public async Task Delete(Guid id)
@@ -54,5 +59,8 @@ public class ClientUseCase : IClientUseCase
         if (client is null) throw new DomainException("Client não encontrado");
 
         await _clienteRepository.DeleteAsync(client);
+
+        await _clienteRepository.SaveChangesAsync();
+
     }
 }
